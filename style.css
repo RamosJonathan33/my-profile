@@ -1,0 +1,33 @@
+body {
+text-align: center;
+}
+body {background-color: burlywood;}
+img {
+    border-radius: 50%;
+}
+.debut {
+    background-color: whitesmoke;
+}
+.grossediv {
+    background-color: thistle;
+    display: flex;
+}
+.diveco {
+    background-color: yellow;
+    width: 70%;
+    margin: 20px;
+}
+.divpara {
+    background-color: slateblue;
+    width: 70%;
+    margin: 20px;
+}
+h3 {
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+}
+ul {
+    list-style: none;
+}
